@@ -21,6 +21,7 @@ body {
 	}
 	.content {
 		font-size: 18px;
+		margin-right: 20px;
 	}
 	ul, ol {
 		margin-left: 50px;
@@ -30,4 +31,8 @@ body {
 	}
 	p {
 		margin-left: 70px;
+	}
+	a { 
+		text-decoration: none;
+		color : darkcyan;
 	}
