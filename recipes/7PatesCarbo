@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>PÂTES SAUMON</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<h1></h1>
+<img src="nom de l'image" width="" height="" alt="Picture of recipe">
+<h2>Ingrédients :</h2>
+<ul class="content">
+	<li>Epices
+		<ul>
+			<li>blabla</li>
+		</ul>
+	</li>
+	
+</ul>
+<h2>Préparation :</h2>
+	<ol class="content">
+		<li>BlaBla</li>
+	</ol>
+	<h2>Mon avis : </h2>
+	<p class="content">Blabla 
+		<a href="Lien de la vidéo !!"
+		target="_blank" 
+		title = "Recette en vidéo"> Recette&nbspen&nbspvidéo</a> </p>
+
+</body>
+</html>
